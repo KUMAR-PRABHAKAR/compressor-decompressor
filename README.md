@@ -12,7 +12,7 @@ This project aims to reduce the number of bits needed to represent data through 
 ### Project snips
 
 <div align="center">
-  <img src=" https://github.com/KUMAR-PRABHAKAR/compressor-decompressor/blob/main/Compressor%20Decompressor/Image/UI.JPG">
+  <img src="https://github.com/KUMAR-PRABHAKAR/compressor-decompressor/blob/main/Compressor%20Decompressor/Image/UI.JPG">
 </div>
 
 <div align="center">
