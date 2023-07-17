@@ -1,4 +1,4 @@
-# Compressor & Decompresso
+# Compressor & Decompressor
 @author "Kumar Prabhakar"
 
 ### Introduction 
