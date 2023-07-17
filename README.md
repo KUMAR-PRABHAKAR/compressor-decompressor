@@ -8,5 +8,16 @@ This project aims to reduce the number of bits needed to represent data through 
 - :red_circle: Java
 - :red_circle: Swing
 - :red_circle: AWT
-  
+
+### Project snips
+
+<div align="center">
+  <img src=" https://github.com/KUMAR-PRABHAKAR/compressor-decompressor/blob/main/Compressor%20Decompressor/Image/UI.JPG">
+</div>
+
+<div align="center">
+  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/Image/comp.JPG" alt="Image 1" width="400" style="display:inline-block;">
+  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/Image/decomp.JPG" alt="Image 2" width="400" style="display:inline-block;">
+</div>
+ 
 Compressor and Decompressor build using Java. It is used to decompress and compress a file.
